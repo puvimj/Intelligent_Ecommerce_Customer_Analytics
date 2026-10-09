@@ -1,0 +1,15 @@
+pandas
+numpy
+nltk
+torch
+scikit-learn
+matplotlib
+seaborn
+streamlit
+plotly
+nbformat
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+shap
